@@ -1,0 +1,8 @@
+{
+  "id": "myframefixer",
+  "version": "0.1.0",
+  "name": "My Frame Fixer",
+  "developer": "You",
+  "description": "A simple mod to fix frames.",
+  "dependencies": []
+}
